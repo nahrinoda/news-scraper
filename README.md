@@ -1,4 +1,4 @@
-# NPR News Scraper
+# News Scraper
 
 Welcome to the News Scraper  website.  This website pulls scraped news from https://www.npr.org/sections/news/ using Node.js | Cheerio | Express | Mongoose | Request | Express-HandleBars | Body-Parser | And lot's of NPM love..... You can get the latest news by clicking on the “Get New Articles” Button (Top-right). You also have the option to save your favourite article and comment on it as well…… Happy Scraping!.
 
