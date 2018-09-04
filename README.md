@@ -60,3 +60,9 @@ Now your project should be successfully deployed on heroku.
 
 1. [ ] Make 'remove' button successfully remove articles from the saved articles page
 2. [ ] Polish comment section UI
+
+### Helpful Links
+
+* [MongoDB Documentation](https://docs.mongodb.com/manual/)
+* [Mongoose Documentation](http://mongoosejs.com/docs/api.html)
+* [Cheerio Documentation](https://github.com/cheeriojs/cheerio)
