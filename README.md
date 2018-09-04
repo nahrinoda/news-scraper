@@ -50,11 +50,11 @@ Now your project should be successfully deployed on heroku.
 
 **Article search home screen**
 
-![screenshot-1](public/assets/img/firstpage.jpg)
+![screenshot-1](./screenshots/firstpage.JPG)
 
 **Article comments modal**
 
-![screenshot-2](public/assets/img/secondpage.jpg)
+![screenshot-2](./screenshots/secondpage.JPG)
 
 ## Future Updates
 
