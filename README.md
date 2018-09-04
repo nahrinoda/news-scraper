@@ -1,8 +1,8 @@
 # NPR News Scraper
 
-This app allows users to view NPR News articles, save their favorites onto another page, and comment on their favorites. Each article displayed includes a headline which is also a link to the source article and a description that includes the date of publish. There is a 'remove' button next to each article on the saved articles page, but currently it does not work. The app uses Node/Express for the server and routing, MongoDB/Mongoose for the database and models, Handlebars for the layout and views, & Cheerio/Request for scraping the data from www.npr.org
+Welcome to the News Scraper  website.  This website pulls scraped news from https://www.npr.org/sections/news/ using Node.js | Cheerio | Express | Mongoose | Request | Express-HandleBars | Body-Parser | And lot's of NPM love..... You can get the latest news by clicking on the “Get New Articles” Button (Top-right). You also have the option to save your favourite article and comment on it as well…… Happy Scraping!.
 
-[Live Demo](https://news-scraper-npr.herokuapp.com/)
+[Live Demo](https:)
 
 ## Getting Started
 
